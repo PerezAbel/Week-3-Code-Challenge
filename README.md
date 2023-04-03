@@ -1,6 +1,6 @@
                                                 WEEK-3-CODE-CHALLENGE
 
-CREATING A FLADANGO APP: -This app allows you to vote for the cutest animal. For this challenge, you will be working on Flataculties, an app where you can vote for the cutest animal! You will use a local API and build out the frontend for our app, Flatacuties.
+CREATING A FLADANGO APP: -This app allows you to buy a ticket for a movie. For this challenge, you will be working on Flatadango, an app where you can buy a ticket for your movie. You will use a local API and build out the frontend for our app, Flatadango.
 
 PROJECT SETUP & PRE-REQUISITE DATA: In your project directory, create a db.json file and use this dataLinks to an external site. for your server DB. Run this command to get the backend started: json-server --watch db.json Test your server by visiting this route in the browser: http://localhost:3000/films PROJECT SETUP:
 
